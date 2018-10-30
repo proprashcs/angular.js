@@ -41,9 +41,9 @@ To execute end-to-end (e2e) tests, use:
 
 To learn more about the grunt tasks, run `grunt --help`
 
-Contribute & Develop
+Contribute & Develop 
 --------------------
-
+Prashant Shukla
 We've set up a separate document for our [contribution guidelines](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md).
 
 
@@ -72,3 +72,5 @@ Everything in AngularJS is created to enable the programmer to end up writing le
 
 #### Testing Ready
 AngularJS has Dependency Injection, i.e. it takes care of providing all the necessary dependencies to its controllers whenever required. This helps in making the AngularJS code ready for unit testing by making use of mock dependencies created and injected. This makes AngularJS more modular and easily testable thus in turn helping a team create more robust applications.
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
