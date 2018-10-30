@@ -74,3 +74,5 @@ Everything in AngularJS is created to enable the programmer to end up writing le
 AngularJS has Dependency Injection, i.e. it takes care of providing all the necessary dependencies to its controllers whenever required. This helps in making the AngularJS code ready for unit testing by making use of mock dependencies created and injected. This makes AngularJS more modular and easily testable thus in turn helping a team create more robust applications.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="prashant-shukla0061"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashant-shukla0061?trk=profile-badge'>Prashant Shukla</a></div>
